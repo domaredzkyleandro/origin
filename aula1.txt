@@ -1,5 +1,8 @@
-Escrevi a Introdução de forma Completa
+Escrevi a Introdução de forma Completa e esqueci de colocar uma parte
 
 Depois fechei o arquivo e salvei
 
 Iniciei de novo no dia seguinte
+
+dei um intervalo e depois disso apresentei 
+-git push
